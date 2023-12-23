@@ -1,4 +1,4 @@
-package %NAME%
+package vector
 
 import chisel3._
 import circt.stage.ChiselStage
